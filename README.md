@@ -1,5 +1,4 @@
 # Bag-of-Words-Meets-Bags-of-Popcorn
 
-
-###you can download dataset in kaggle
+<h2>you can download dataset in kaggle</h2>
 https://www.kaggle.com/c/word2vec-nlp-tutorial
